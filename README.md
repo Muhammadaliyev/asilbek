@@ -1,0 +1,2 @@
+# asilbek
+uyga vazifam
