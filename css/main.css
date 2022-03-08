@@ -1,0 +1,79 @@
+HAKER, [08.03.2022 19:24]
+body {
+    height: 1000px;
+}
+.wrab {
+    border: black;
+}
+.asos {
+    display: flex;
+    
+}
+.block1 {
+    background-color: blue;
+    height: 50px;
+    flex-grow: 1;
+    text-align: center;
+    line-height: 50px;
+
+
+}
+.block2 {
+    background-color:orangered;
+height: 50px;
+flex-grow: 1;
+text-align: center;
+line-height: 50px;
+}
+.az{
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+.block3 {
+    background-color: green;
+    flex-grow: 1;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    position: sticky;
+    top: 0px;
+}
+.block4 {
+    background-color: green;
+flex-grow: 1;
+text-align: center;
+height: 50px;
+line-height: 50px;
+position: sticky;
+top: 0px;
+
+}
+.block5 {
+    background-color: green;
+flex-grow: 1;
+text-align: center;
+height: 50px;
+line-height: 50px;
+position: sticky;
+top: 0px;
+
+
+}
+.block6 {
+    background-color: green;
+flex-grow: 1;
+text-align: center;
+height: 50px;
+line-height: 50px;
+position: sticky;
+top: 0px;
+
+
+}
+.block8 {
+    background-color: red;
+width: 50px;
+height: 50px;
+LH: 50PX;
+}
